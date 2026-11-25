@@ -2,7 +2,7 @@
   "name": "crm-account-based-marketing",
   "display_name": "CRM Account-Based Marketing",
   "description": "Target accounts, buying committees, intent, engagement, audiences, plays, coverage and measurement",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "capability",
   "provider": "Liberu\\CRM\\AccountBasedMarketing\\AccountBasedMarketingServiceProvider",
   "requires": {
